@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar rockpaperscissors;
+
+public<play> = rock | paper | scissors;
+
+
+
+
